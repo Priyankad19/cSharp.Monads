@@ -1,0 +1,14 @@
+C:\Priyanka D\DART\OpenSource Projects\Monads\Monads.Net.Tests\obj\Debug\cSharp.Monads.Tests.csprojResolveAssemblyReference.cache
+C:\Priyanka D\DART\OpenSource Projects\Monads\Monads.Net.Tests\obj\Debug\Monads.Net.Tests.dll
+C:\Priyanka D\DART\OpenSource Projects\Monads\Monads.Net.Tests\obj\Debug\Monads.Net.Tests.pdb
+C:\Priyanka D\DART\OpenSource Projects\Monads\Monads.Net.Tests\bin\Debug\Monads.Net.Tests.dll
+C:\Priyanka D\DART\OpenSource Projects\Monads\Monads.Net.Tests\bin\Debug\Monads.Net.Tests.pdb
+C:\Priyanka D\DART\OpenSource Projects\Monads\Monads.Net.Tests\bin\Debug\Monads.NET.dll
+C:\Priyanka D\DART\OpenSource Projects\Monads\Monads.Net.Tests\bin\Debug\Monads.NET.pdb
+C:\Priyanka D\DART\OpenSource Projects\cSharp.Monads\cSharp.Monads.Tests\bin\Debug\Monads.Net.Tests.dll
+C:\Priyanka D\DART\OpenSource Projects\cSharp.Monads\cSharp.Monads.Tests\bin\Debug\Monads.Net.Tests.pdb
+C:\Priyanka D\DART\OpenSource Projects\cSharp.Monads\cSharp.Monads.Tests\bin\Debug\Monads.NET.dll
+C:\Priyanka D\DART\OpenSource Projects\cSharp.Monads\cSharp.Monads.Tests\bin\Debug\Monads.NET.pdb
+C:\Priyanka D\DART\OpenSource Projects\cSharp.Monads\cSharp.Monads.Tests\obj\Debug\cSharp.Monads.Tests.csprojResolveAssemblyReference.cache
+C:\Priyanka D\DART\OpenSource Projects\cSharp.Monads\cSharp.Monads.Tests\obj\Debug\Monads.Net.Tests.dll
+C:\Priyanka D\DART\OpenSource Projects\cSharp.Monads\cSharp.Monads.Tests\obj\Debug\Monads.Net.Tests.pdb
