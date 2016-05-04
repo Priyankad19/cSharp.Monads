@@ -1,2 +1,3 @@
 # cSharp.Monads
-Implementation of Mondas in c#
+# WIP
+Basic implementation of Mondas in c#
