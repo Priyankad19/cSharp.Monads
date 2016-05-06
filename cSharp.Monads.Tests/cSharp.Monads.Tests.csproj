@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="OptionalTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EitherTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\cSharp.Monads\cSharp.Monads.csproj">
