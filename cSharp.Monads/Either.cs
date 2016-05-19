@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Monads.NET
+namespace cSharp.Monads
 {
     public class Either<L, R>
     {

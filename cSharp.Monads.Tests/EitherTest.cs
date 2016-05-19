@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Monads.NET;
+using cSharp.Monads;
 
-namespace Monads.Net.Tests
+namespace cSharp.Monads.Tests
 {
     [TestClass]
     public class EitherTest
@@ -26,7 +26,6 @@ namespace Monads.Net.Tests
             String expectedLeftValue = "IamLeft";
             Assert.AreEqual(expectedLeftValue, leftValue);
         }
-
         private void RightFunction(string rightValue)
         {
             String expectedRightValue = "IamRight";

@@ -8,8 +8,8 @@
     <ProjectGuid>{EAC2FD6E-BBCB-4CEA-9FEC-619A95A6E079}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Monads.NET</RootNamespace>
-    <AssemblyName>Monads.NET</AssemblyName>
+    <RootNamespace>cSharp.Monads</RootNamespace>
+    <AssemblyName>cSharp.Monads</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
